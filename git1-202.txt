@@ -1,0 +1,87 @@
+1.what is git and github?
+2.how to install git in your windows?
+
+
+3.How to create a github account?
+How to create repos
+4.how to push your code from your windows server to github account?
+
+
+5.KT knowledge trans
+
+
+svn   github
+
+
+if git is alreday installed if you do right click yopu can see gitbash option
+
+
+.exe / zip    - windows 
+
+tar.gz    / linux
+
+10 15 softwares
+
+
+Folder -windows 
+Repositories -github
+
+
+4$ for each repo
+
+
+
+
+*****************************************************************
+echo "# zomotobiriyani" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/devopsbyrushi/zomotobiriyani.git
+
+
+
+**************************
+
+in gitbash if u want to see how many files are available
+
+ls
+
+
+2nd to 3rd
+
+git commit -m "i have developed first 4 code files"
+
+
+
+git config --global user.email "devopsbyrushi@gmail.com"
+git config --global user.name "rushi devops"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git push -u origin main
+                
+ 
